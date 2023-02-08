@@ -8,7 +8,7 @@
 
 In this repository you will find my answers to the SQL challenges proposed in HackerRank, from basic to advanced level. 
 
-Listed below are the questions available in this repository. Each link leads to the document containing both, the question statement and the answer.
+Listed below are the questions available in this repository. Each link leads to the document containing both, the question statement and the answer, written in MS SQL Server.
 
 #### **Basic level**
 
