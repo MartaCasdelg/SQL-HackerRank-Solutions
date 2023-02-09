@@ -12,24 +12,24 @@ Listed below are the questions available in this repository. Each link leads to 
 
 #### **Basic level**
 
-* [The pads](./1.%20Basic/Exercise%20statements%20with%20solutions/Thepads.md)
-* Revising Aggregations - The Count Function
-* Revising Aggregations - The Sum Function
-* Revising Aggregations - Averages
-* Average Population
-* Japan Population
-* Population Density Difference
-* The Blunder
-* Top Earners
-* Weather Observation Station 2
-* Weather Observation Station 13
-* Weather Observation Station 14
-* Weather Observation Station 15
-* Weather Observation Station 16
-* Weather Observation Station 17
-* Weather Observation Station 18
-* Weather Observation Station 19
-* Average Population of Each Continent
+* [The pads](./1.%20Basic/Exercise%20statements%20with%20solutions/The_pads.md)
+* [Revising Aggregations - The Count Function](./1.%20Basic/Exercise%20statements%20with%20solutions/Revising_Agg_Count.md)
+* [Revising Aggregations - The Sum Function](./1.%20Basic/Exercise%20statements%20with%20solutions/Revising_Agg_Sum.md)
+* [Revising Aggregations - Averages](./1.%20Basic/Exercise%20statements%20with%20solutions/Revising_Agg_Average.md)
+* [Average Population](./1.%20Basic/Exercise%20statements%20with%20solutions/Average_population.md)
+* [Japan Population](./1.%20Basic/Exercise%20statements%20with%20solutions/Japan_population.md)
+* [Population Density Difference](./1.%20Basic/Exercise%20statements%20with%20solutions/Population_density_difference.md)
+* [The Blunder](./1.%20Basic/Exercise%20statements%20with%20solutions/The_blunder.md)
+* [Top Earners](./1.%20Basic/Exercise%20statements%20with%20solutions/Top_earners.md)
+* [Weather Observation Station 2](./1.%20Basic/Exercise%20statements%20with%20solutions/Weather_observation_station_2.md)
+* [Weather Observation Station 13](./1.%20Basic/Exercise%20statements%20with%20solutions/Weather_observation_station_13.md)
+* [Weather Observation Station 14](./1.%20Basic/Exercise%20statements%20with%20solutions/Weather_observation_station_14.md)
+* [Weather Observation Station 15](./1.%20Basic/Exercise%20statements%20with%20solutions/Weather_observation_station_15.md)
+* [Weather Observation Station 16](./1.%20Basic/Exercise%20statements%20with%20solutions/Weather_observation_station_16.md)
+* [Weather Observation Station 17](./1.%20Basic/Exercise%20statements%20with%20solutions/Weather_observation_station_17.md)
+* [Weather Observation Station 18](./1.%20Basic/Exercise%20statements%20with%20solutions/Weather_observation_station_18.md)
+* [Weather Observation Station 19](./1.%20Basic/Exercise%20statements%20with%20solutions/Weather_observation_station_19.md)
+* [Average Population of Each Continent](./1.%20Basic/Exercise%20statements%20with%20solutions/Average_population_each_continent.md)
 
 &nbsp;
 
