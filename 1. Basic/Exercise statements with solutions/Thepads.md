@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/MartaCasdelg/SQL-HackerRank-Solutions/blob/main/1.%20Basic/Images/thepads1.png" width="500"/>
+  <img src="https://github.com/MartaCasdelg/SQL-HackerRank-Solutions/blob/main/1.%20Basic/Images/thepads1.png" />
 </div>
 
 <div id="header" align="center">
