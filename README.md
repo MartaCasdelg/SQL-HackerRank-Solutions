@@ -12,7 +12,7 @@ Listed below are the questions available in this repository. Each link leads to 
 
 #### **Basic level**
 
-* The pads
+* [The pads](./1.%20Basic/Exercise%20statements%20with%20solutions/Thepads.md)
 * Revising Aggregations - The Count Function
 * Revising Aggregations - The Sum Function
 * Revising Aggregations - Averages
