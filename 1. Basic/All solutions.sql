@@ -237,4 +237,4 @@ SELECT
 FROM
     city INNER JOIN country ON city.countrycode = country.code
 GROUP BY
-    country.continent
+    country.continent;
