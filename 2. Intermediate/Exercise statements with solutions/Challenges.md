@@ -1,27 +1,27 @@
 # Challenges
 
 <div id="header" align="center">
-  <img src="https://github.com/MartaCasdelg/SQL-HackerRank-Solutions/tree/main/2.%20Intermediate/Images/challenges_1.png" />
+  <img src="https://github.com/MartaCasdelg/SQL-HackerRank-Solutions/blob/main/2.%20Intermediate/Images/challenges_1.png" />
 </div>
 
 <div id="header" align="center">
-  <img src="https://github.com/MartaCasdelg/SQL-HackerRank-Solutions/tree/main/2.%20Intermediate/Images/challenges_2.png" />
+  <img src="https://github.com/MartaCasdelg/SQL-HackerRank-Solutions/blob/main/2.%20Intermediate/Images/challenges_2.png" />
 </div>
 
 <div id="header" align="center">
-  <img src="https://github.com/MartaCasdelg/SQL-HackerRank-Solutions/tree/main/2.%20Intermediate/Images/challenges_3.png" />
+  <img src="https://github.com/MartaCasdelg/SQL-HackerRank-Solutions/blob/main/2.%20Intermediate/Images/challenges_3.png" />
 </div>
 
 <div id="header" align="center">
-  <img src="https://github.com/MartaCasdelg/SQL-HackerRank-Solutions/tree/main/2.%20Intermediate/Images/challenges_4.png" />
+  <img src="https://github.com/MartaCasdelg/SQL-HackerRank-Solutions/blob/main/2.%20Intermediate/Images/challenges_4.png" />
 </div>
 
 <div id="header" align="center">
-  <img src="https://github.com/MartaCasdelg/SQL-HackerRank-Solutions/tree/main/2.%20Intermediate/Images/challenges_5.png" />
+  <img src="https://github.com/MartaCasdelg/SQL-HackerRank-Solutions/blob/main/2.%20Intermediate/Images/challenges_5.png" />
 </div>
 
 <div id="header" align="center">
-  <img src="https://github.com/MartaCasdelg/SQL-HackerRank-Solutions/tree/main/2.%20Intermediate/Images/challenges_6.png" />
+  <img src="https://github.com/MartaCasdelg/SQL-HackerRank-Solutions/blob/main/2.%20Intermediate/Images/challenges_6.png" />
 </div>
 
 &nbsp;

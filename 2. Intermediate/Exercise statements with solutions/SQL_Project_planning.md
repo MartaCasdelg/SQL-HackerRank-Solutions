@@ -1,11 +1,11 @@
 # SQL Project Planning
 
 <div id="header" align="center">
-  <img src="https://github.com/MartaCasdelg/SQL-HackerRank-Solutions/tree/main/2.%20Intermediate/Images/sql_project_1.png" />
+  <img src="https://github.com/MartaCasdelg/SQL-HackerRank-Solutions/blob/main/2.%20Intermediate/Images/sql_project_1.png" />
 </div>
 
 <div id="header" align="center">
-  <img src="https://github.com/MartaCasdelg/SQL-HackerRank-Solutions/tree/main/2.%20Intermediate/Images/sql_project_2.png" />
+  <img src="https://github.com/MartaCasdelg/SQL-HackerRank-Solutions/blob/main/2.%20Intermediate/Images/sql_project_2.png" />
 </div>
 
 &nbsp;

@@ -1,7 +1,7 @@
 # Weather Observation Station 20
 
 <div id="header" align="center">
-  <img src="https://github.com/MartaCasdelg/SQL-HackerRank-Solutions/tree/main/2.%20Intermediate/Images/weather_ob_20.png" />
+  <img src="https://github.com/MartaCasdelg/SQL-HackerRank-Solutions/blob/main/2.%20Intermediate/Images/weather_ob_20.png" />
 </div>
 
 &nbsp;

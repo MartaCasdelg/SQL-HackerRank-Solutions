@@ -1,7 +1,7 @@
 # Binary Tree Nodes
 
 <div id="header" align="center">
-  <img src="https://github.com/MartaCasdelg/SQL-HackerRank-Solutions/tree/main/2.%20Intermediate/Images/symmetric_pairs.png" />
+  <img src="https://github.com/MartaCasdelg/SQL-HackerRank-Solutions/blob/main/2.%20Intermediate/Images/symmetric_pairs.png" />
 </div>
 
 &nbsp;
