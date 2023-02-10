@@ -45,7 +45,7 @@ Listed below are the questions available in this repository. Each link leads to 
 * [Symmetric pairs](./2.%20Intermediate/Exercise%20statements%20with%20solutions/Symmetric_pairs.md)
 * [The report](./2.%20Intermediate/Exercise%20statements%20with%20solutions/The_report.md)
 * [Top competitors](./2.%20Intermediate/Exercise%20statements%20with%20solutions/Top_competitors.md)
-* [Weather Oobservation Station 20](./2.%20Intermediate/Exercise%20statements%20with%20solutions/Weather_observation_station_20.md)
+* [Weather Observation Station 20](./2.%20Intermediate/Exercise%20statements%20with%20solutions/Weather_observation_station_20.md)
 
 &nbsp;
 
