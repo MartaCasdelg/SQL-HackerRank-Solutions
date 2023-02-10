@@ -35,6 +35,19 @@ Listed below are the questions available in this repository. Each link leads to 
 
 #### **Intermediate level** [Coming soon] 
 
+* [Binary_tree_nodes](./2.%20Intermediate/Exercise%20statements%20with%20solutions/Binary_tree_nodes.md)
+* [Challenges](./2.%20Intermediate/Exercise%20statements%20with%20solutions/Challenges.md)
+* [Contest leaderboard](./2.%20Intermediate/Exercise%20statements%20with%20solutions/Contest_leaderboard.md)
+* [Interviews](./2.%20Intermediate/Exercise%20statements%20with%20solutions/Interviews.md)
+* [Ollivander's inventory](./2.%20Intermediate/Exercise%20statements%20with%20solutions/Ollivanders_inventory.md)
+* [Placements](./2.%20Intermediate/Exercise%20statements%20with%20solutions/Placements.md)
+* [SQL Project planning](./2.%20Intermediate/Exercise%20statements%20with%20solutions/SQL_Project_planning.md)
+* [Symmetric pairs](./2.%20Intermediate/Exercise%20statements%20with%20solutions/Symmetric_pairs.md)
+* [The report](./2.%20Intermediate/Exercise%20statements%20with%20solutions/The_report.md)
+* [Top competitors](./2.%20Intermediate/Exercise%20statements%20with%20solutions/Top_competitors.md)
+* [Weather Oobservation Station 20](./2.%20Intermediate/Exercise%20statements%20with%20solutions/Weather_observation_station_20.md)
+
+&nbsp;
 
 #### **Advanced level** [Coming soon]
 
