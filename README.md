@@ -33,7 +33,7 @@ Listed below are the questions available in this repository. Each link leads to 
 
 &nbsp;
 
-#### **Intermediate level** [Coming soon] 
+#### **Intermediate level** 
 
 * [Binary_tree_nodes](./2.%20Intermediate/Exercise%20statements%20with%20solutions/Binary_tree_nodes.md)
 * [Challenges](./2.%20Intermediate/Exercise%20statements%20with%20solutions/Challenges.md)
