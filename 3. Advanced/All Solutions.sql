@@ -67,7 +67,25 @@ WHERE
     sub_ranking.rank = 1;
 
 
-         
+--Draw The Triangle 1
+DECLARE @var int                 
+SELECT @var = 20                 
+WHILE @var > 0              
+BEGIN                      
+PRINT replicate('* ', @var) 
+SET @var = @var - 1    
+END;
+
+
+
+--Draw The Triangle 2
+DECLARE @var int                 
+SELECT @var = 1                 
+WHILE @var <= 20               
+BEGIN                      
+PRINT replicate('* ', @var) 
+SET @var = @var + 1    
+END;                  
 
 
 --Print Prime Numbers
