@@ -49,7 +49,13 @@ Listed below are the questions available in this repository. Each link leads to 
 
 &nbsp;
 
-#### **Advanced level** [Coming soon]
+#### **Advanced level** 
+
+* [15 Days of Learning SQL](./3.%20Advanced/Exercise%20statements%20with%20solutions/15_days_of_learning_sql.md)
+* [Draw the triangle 1](./3.%20Advanced/Exercise%20statements%20with%20solutions/Draw_the_triangle_1.md)
+* [Draw the triangle 2](./3.%20Advanced/Exercise%20statements%20with%20solutions/Draw_the_triangle_2.md)
+* [Print prime numbers](./3.%20Advanced/Exercise%20statements%20with%20solutions/Print_prime_numbers.md)
+
 
 &nbsp;
 
